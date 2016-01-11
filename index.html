@@ -284,17 +284,15 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/arduino2.PNG" class="img-responsive img-centered" alt="">
                             <p>
-                                This project visualizes data captured by an Arduino Uno.
+                                This project visualizes data captured by an Arduino Uno, using three sensors:
+                                Photoresistor, Temperature and Sound Sensor.
                                 <br>
-                                There are several sensors used to capture data about the current environment:
-                            <ul>
-                                <li>Photoresistor</li>
-                                <li>Temperature Sensor</li>
-                                <li>Sound Sensor</li>
-                                <li>Vibration Sensor</li>
-                            </ul>
-                                <br>
-                                The data the Arduino receives from these sensors is sent over serial connection to the server (written in Node.js), which then stores them into the database (MongoDB). The server also handles all of the requests for the front end web application (Bootstrap), with the data visualization created using D3.js. Web Sockets are used to retrieve the sensor data from the database and use them client-side with the D3.js library for the data visualization.
+                                The data the Arduino receives from these sensors is sent over serial connection
+                                to the server (written in Node.js), which then stores them into the database (MongoDB).
+                                The server also handles all of the requests for the front end web application (Bootstrap),
+                                with the data visualization created using D3.js. Web Sockets are used to retrieve the sensor
+                                data from the database and use them client-side with the D3.js library for the data visualization.
+
                             </p>
                             <ul class="list-inline item-details">
                                 <li>
