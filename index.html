@@ -280,21 +280,29 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Arduino Data Visualisation</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/arduino.PNG" class="img-responsive img-centered" alt="">
+                            <p>
+                                This project visualizes data captured by an Arduino Uno.
+                                <br>
+                                There are several sensors used to capture data about the current environment:
+                            <ul>
+                                <li>Photoresistor</li>
+                                <li>Temperature Sensor</li>
+                                <li>Sound Sensor</li>
+                                <li>Vibration Sensor</li>
+                            </ul>
+                                <br>
+                                The data the Arduino receives from these sensors is sent over serial connection to the server (written in Node.js), which then stores them into the database (MongoDB). The server also handles all of the requests for the front end web application (Bootstrap), with the data visualization created using D3.js. Web Sockets are used to retrieve the sensor data from the database and use them client-side with the D3.js library for the data visualization.
+                            </p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                <li>
+                                    <strong><a href="https://www.dropbox.com/s/64fu7c6wuzubjad/Report.pdf?dl=0">View the report for this project</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                <li>
+                                    <strong><a href="https://github.com/Williams94/Arduino-Data-Visulisation">View project on GitHub</a>
                                     </strong>
                                 </li>
                             </ul>
