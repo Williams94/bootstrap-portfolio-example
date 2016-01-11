@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d63e81b-41e1-45f3-94d2-6fdb9b087c91" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/arduino.PNG" afterPath="$PROJECT_DIR$/img/portfolio/arduino.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Williams94.github.io.iws" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37294117">
-              <caret line="291" column="59" selection-start-line="291" selection-start-column="59" selection-end-line="291" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.41769043">
+              <caret line="300" column="178" selection-start-line="300" selection-start-column="178" selection-end-line="300" selection-end-column="178" />
               <folding />
             </state>
           </provider>
@@ -328,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37294117">
-          <caret line="291" column="59" selection-start-line="291" selection-start-column="59" selection-end-line="291" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.41769043">
+          <caret line="300" column="178" selection-start-line="300" selection-start-column="178" selection-end-line="300" selection-end-column="178" />
           <folding />
         </state>
       </provider>
