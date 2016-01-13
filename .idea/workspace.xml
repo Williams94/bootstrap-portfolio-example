@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d63e81b-41e1-45f3-94d2-6fdb9b087c91" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="9d63e81b-41e1-45f3-94d2-6fdb9b087c91" name="Default" comment="" />
     <ignored path="Williams94.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64373463">
-              <caret line="293" column="33" selection-start-line="293" selection-start-column="33" selection-end-line="293" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.55896807">
+              <caret line="338" column="45" selection-start-line="338" selection-start-column="45" selection-end-line="338" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -109,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,6 +188,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,6 +285,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -296,6 +318,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
@@ -304,11 +329,16 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13038549">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.14093137">
@@ -317,19 +347,11 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13038549">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64373463">
-          <caret line="293" column="33" selection-start-line="293" selection-start-column="33" selection-end-line="293" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.55896807">
+          <caret line="338" column="45" selection-start-line="338" selection-start-column="45" selection-end-line="338" selection-end-column="45" />
           <folding />
         </state>
       </provider>
